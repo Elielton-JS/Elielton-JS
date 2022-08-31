@@ -2,7 +2,7 @@
 
 # 🥳 Welcome to my github profile 🥳
 Olá, meu nome é Elielton Fragozo e eu tenho um grande sonho em ser um grande Desenvolvedor WEB 💻
-- Sou Estudando de Engenharia de Software pela instituição [Ampli](https://www.ampli.com.br/) 📚
+- Cursando Engenharia de Software pela instituição [Ampli](https://www.ampli.com.br/) 📚
 - Cursando Dev FullStack do [ProgramadorBR](https://www.youtube.com/c/Programadorbr) 📚
 - Cursando JS, HTML, CSS & MYSQL [Curso em Video](https://www.cursoemvideo.com/) 📚
 
