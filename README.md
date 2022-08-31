@@ -27,3 +27,5 @@ Olá, meu nome é Elielton Fragozo e eu tenho um grande sonho em ser um grande D
   <img height= "160em" width="48%" src="https://github-readme-stats.vercel.app/api?username=elieltonfragozo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elieltonfragozo&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+ ![Snake animation](https://github.com/elieltonfragozo/elieltonfragozo/blob/output/github-contribution-grid-snake.svg)
