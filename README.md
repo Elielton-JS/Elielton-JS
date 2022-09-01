@@ -1,10 +1,10 @@
 <img src = "progra.gif" width = "285px" align = "right">
 
 # 🥳 Welcome to my github profile 🥳
-Olá, meu nome é Elielton Fragozo e eu tenho um grande sonho em ser um grande Desenvolvedor WEB 💻
+Olá, meu nome é Elielton Fragozo e eu tenho o sonho de ser um grande Desenvolvedor WEB 💻
 - Cursando Engenharia de Software pela instituição [Ampli](https://www.ampli.com.br/) 📚
 - Cursando Dev Full Stack do [ProgramadorBR](https://www.youtube.com/c/Programadorbr) 📚
-- Cursando JS, HTML, CSS & MYSQL [Curso em Video](https://www.cursoemvideo.com/) 📚
+- Cursando GIT, GITHUB, JS, HTML, CSS & MYSQL [Curso em Video](https://www.cursoemvideo.com/) 📚
 
 ---
 
